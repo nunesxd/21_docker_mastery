@@ -1,0 +1,10 @@
+20_07_2022
+O docker é conhecido por suas 3 inovações, produtos:
+a) Docker Image: Como um app de packaging universal (NPM, PIP, etc.);
+b) Docker Registry: Como um app de distribuição universal (Docker Hub, Git Hub, etc.);
+c) Docker Container: Ambiente de execução predeterminado;
+
+Podemos usar o site abaixo para testar o docker no browser:
+-- https://labs.play-with-docker.com/ 
+
+O Open Container Initiative (OCI) é um projeto aberto com o intuito de definir padrões sobre containers e seus respectivos tempos de execução. Este projeto foi desenvolvido pela equipe do Docker.
